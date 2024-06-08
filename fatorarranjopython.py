@@ -37,5 +37,3 @@ for N in [3, 5, 10]:
 
     plt.tight_layout(rect=[0, 0, 0.9, 0.95])
     plt.show()
-
-print(f'Frequência: {frequencia / 1e6:.2f} MHz')
